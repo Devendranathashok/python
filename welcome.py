@@ -3,6 +3,6 @@ def hello_name(name):
   greet = "Hello "+ name
   return greet
   
-hello_name('Bob')
-hello_name('Alice')
-hello_name('X')
+print(hello_name('Bob'))
+print(hello_name('Alice'))
+print(hello_name('X'))
